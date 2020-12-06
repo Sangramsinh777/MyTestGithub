@@ -1,0 +1,20 @@
+{
+  "name": "TestGithub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sangramsinh777/MyTestGithub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sangramsinh777/MyTestGithub/issues"
+  },
+  "homepage": "https://github.com/Sangramsinh777/MyTestGithub#readme"
+}
